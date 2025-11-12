@@ -27,3 +27,5 @@ deploying-ai-env
 *.jsonl
 *.htm
 *.txt
+05_src/.secrets.template
+05_src/.secrets.template
